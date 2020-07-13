@@ -1,0 +1,9 @@
+.lead__image-container {
+  margin: 0 0 82px;
+}
+
+@media (max-width: 500px) {
+  .lead__image-container {
+    margin-bottom: 64px;
+  }
+}

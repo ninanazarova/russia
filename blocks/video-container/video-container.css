@@ -1,0 +1,17 @@
+@import url('../video-item/video-item.css');
+
+.video-container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+@media (max-width: 750px) {
+  .video-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

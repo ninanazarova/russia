@@ -1,0 +1,19 @@
+@import url('./__copyright/footer__copyright.css');
+@import url('./__links/footer__links.css');
+@import url('./__link/footer__link.css');
+
+
+.footer {
+  padding-bottom: 48px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+@media (max-width: 700px) {
+  .footer {
+    flex-direction: column;
+    padding-bottom: 20px;
+  }
+}

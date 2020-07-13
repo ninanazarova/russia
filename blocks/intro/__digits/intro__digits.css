@@ -1,0 +1,15 @@
+.intro__digits {
+  font-size: 13px;
+  line-height: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 96px;
+}
+
+@media (max-width: 500px) {
+  .intro__digits {
+    font-size: 12px;
+    line-height: 19px;
+    margin-bottom: 68px;
+  }
+}

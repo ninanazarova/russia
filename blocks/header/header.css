@@ -1,0 +1,16 @@
+@import url('./__lang/header__lang.css');
+@import url('./__logo/header__logo.css');
+
+.header {
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+@media (max-width: 500px) {
+  .header {
+    padding-top: 16px;
+    padding-bottom: 51px;
+  }
+}

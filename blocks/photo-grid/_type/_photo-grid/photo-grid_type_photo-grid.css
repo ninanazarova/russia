@@ -1,0 +1,9 @@
+.photo-grid_type_photo-grid {
+  margin: 0 auto 104px;
+}
+
+@media (max-width: 500px) {
+  .photo-grid_type_photo-grid {
+    margin-bottom: 67px;
+  }
+}

@@ -1,0 +1,15 @@
+@import url('../../comment/comment.css');
+
+.comments__container {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+  .comments__container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

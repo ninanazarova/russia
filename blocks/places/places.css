@@ -1,0 +1,6 @@
+@import url('../place/place.css');
+@import url('./__place/places__place.css');
+
+.places {
+  font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+}

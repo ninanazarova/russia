@@ -1,0 +1,21 @@
+.comments__content-subtitle {
+  margin: 0 auto 63px;
+}
+
+@media (max-width: 1279px) {
+  .comments__content-subtitle {
+    max-width: 71%;
+  }
+}
+
+@media (max-width: 768px) {
+  .comments__content-subtitle {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 440px) {
+  .comments__content-subtitle {
+    margin-bottom: 26px;
+  }
+}

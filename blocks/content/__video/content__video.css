@@ -1,0 +1,9 @@
+.content__video {
+  margin-bottom: 102px;
+}
+
+@media (max-width: 500px) {
+  .content__video {
+    margin-bottom: 65px;
+  }
+}

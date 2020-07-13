@@ -1,0 +1,29 @@
+.video__content-title {
+  margin: 0 auto 32px;
+  max-width: 62%;
+}
+
+@media (max-width: 1279px) {
+  .video__content-title {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 960px) {
+  .video__content-title {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 820px) {
+  .video__content-title {
+    max-width: 80%;
+  }
+}
+
+@media (max-width: 440px) {
+  .video__content-title {
+    max-width: 100%;
+    margin-bottom: 22px;
+  }
+}

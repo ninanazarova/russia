@@ -1,0 +1,5 @@
+@import url('./__container/content__container.css');
+
+.content {
+  font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+}

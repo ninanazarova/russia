@@ -1,0 +1,31 @@
+.video-item__subtitle {
+  z-index: 2;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  margin: 0;
+}
+
+@media (min-width: 1024px) {
+  .video-item__subtitle {
+    padding-top: 14px;
+  }
+}
+
+@media (max-width: 900px) {
+  .video-item__subtitle {
+    padding-top: 12px;
+  }
+}
+
+@media (max-width: 750px) {
+  .video-item__subtitle {
+    padding-top: 14px;
+  }
+}
+
+@media (max-width: 430px) {
+  .video-item__subtitle {
+    padding-top: 3px;
+  }
+}
