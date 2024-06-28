@@ -1,13 +1,11 @@
 # russia
 
-Учебный проект по основам адаптивной верстки
+Practice project on the basics of adaptive layout. 
 
-## **_Стек технологий_**
+[Live demo](https://ninanazarova.github.io/russia/)
+
+### Tech Stack
 
 - HTML5
 - CSS3
 - BEM
-
-## **_Посмотреть сайт_**
-
-https://ninanazarova.github.io/russia/
