@@ -9,3 +9,5 @@ Practice project on the basics of adaptive layout.
 - HTML5
 - CSS3
 - BEM
+
+Yandex.Practicum
